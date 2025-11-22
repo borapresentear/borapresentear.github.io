@@ -1,0 +1,58 @@
+[
+  {
+    "categoria": "Perfumes Masculinos",
+    "nome": "Malbec Tradicional 100ml",
+    "preco": "239.90",
+    "imagem": "imagens/Malbec Tradicional 100ml.png",
+    "link": "https://wa.me/5594992621630?text=Quero+o+Malbec"
+  },
+  {
+    "categoria": "Perfumes Masculinos",
+    "nome": "Malbec Magnectic 100ml",
+    "preco": "263.90",
+    "imagem": "imagens/Malbec Magnectic 100ml.png",
+    "link": "https://wa.me/5594992621630?text=Quero+o+Malbec"
+  },
+  {
+    "categoria": "Perfumes Masculinos",
+    "nome": "Malbec Pure Gold 100ml",
+    "preco": "263.90",
+    "imagem": "imagens/Malbec Pure Gold 100ml.png",
+    "link": "https://wa.me/5594992621630?text=Quero+o+Malbec"
+  },
+  {
+    "categoria": "Perfumes Masculinos",
+    "nome": "Egeo Bomb Black 90ml",
+    "preco": "170.90",
+    "imagem": "imagens/Egeo Bomb Black 90ml.png",
+    "link": "https://wa.me/5594992621630?text=Quero+o+Malbec"
+  },
+  {
+    "categoria": "Perfumes Femininos",
+    "nome": "Liz Flora 100ml",
+    "preco": "181.90",
+    "imagem": "imagens/Liz Flora Tradicional 100ml.png",
+    "link": "https://wa.me/5594992621630?text=Quero+o+Floratta+Red"
+  },
+  {
+    "categoria": "Perfumes Femininos",
+    "nome": "Accordes Harmonia 80ml",
+    "preco": "252.90",
+    "imagem": "imagens/Accordes Harmonia 80ml.png",
+    "link": "https://wa.me/5594992621630?text=Quero+o+Floratta+Red"
+  },
+  {
+    "categoria": "Cuidados",
+    "nome": "Lily Creme Acetinado",
+    "preco": "156.90",
+    "imagem": "imagens/Creme Acetinado Lily Tradicional 250ml.png",
+    "link": "https://wa.me/5594992621630?text=Quero+o+Lily+Creme"
+  },
+  {
+    "categoria": "Cuidados",
+    "nome": "Hidratante Nativa Spa Ameixa",
+    "preco": "95.90",
+    "imagem": "imagens/Hidratante NativaSpa Ameixa 400ml.png",
+    "link": "https://wa.me/5594992621630?text=Quero+o+Lily+Creme"
+  }  
+]
