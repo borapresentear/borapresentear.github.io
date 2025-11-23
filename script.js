@@ -17,6 +17,7 @@ function mostrarProdutos(lista) {
   lista.forEach(prod => {
       const card = document.createElement("div");
       card.classList.add("card");
+      card.setAttribute("data-cat", prod.categoria);
 
       card.innerHTML = `
           <img src="${prod.imagem}" alt="${prod.nome}">
@@ -30,6 +31,31 @@ function mostrarProdutos(lista) {
       container.appendChild(card);
   });
 }
+
+//
+// ---------------- FILTROS (RESTAURADO) ----------------
+//
+
+document.querySelectorAll(".filtro").forEach(btn => {
+    btn.addEventListener("click", () => {
+
+        document.querySelectorAll(".filtro").forEach(b => b.classList.remove("ativo"));
+        btn.classList.add("ativo");
+
+        const cat = btn.dataset.cat;
+
+        if (cat === "todos") {
+            mostrarProdutos(produtos);
+        } else {
+            const filtrados = produtos.filter(p => p.categoria === cat);
+            mostrarProdutos(filtrados);
+        }
+    });
+});
+
+//
+// ---------------- CARRINHO ----------------
+//
 
 // Adicionar ao carrinho
 function adicionarCarrinho(nome, preco) {
@@ -72,7 +98,7 @@ function removerItem(index) {
   carregarItensCarrinho();
 }
 
-// Limpar carrinho inteiro
+// Limpar carrinho
 document.getElementById("btn-limpar").addEventListener("click", () => {
   carrinho = [];
   atualizarCarrinhoBar();
