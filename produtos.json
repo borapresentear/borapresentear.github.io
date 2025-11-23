@@ -4,85 +4,145 @@
     "categoria": "masculino",
     "nome": "Malbec Trad. 100ml",
     "preco": "239.90",
-    "imagem": "imagens/Malbec Tradicional 100ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Malbec+Tradicional"
+    "imagem": "imagens/Malbec Tradicional 100ml.png"
   },
   {
     "categoria": "masculino",
     "nome": "Malbec Magnectic 100ml",
     "preco": "263.90",
-    "imagem": "imagens/Malbec Magnectic 100ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Malbec+Magnectic"
+    "imagem": "imagens/Malbec Magnectic 100ml.png"
   },
   {
     "categoria": "masculino",
     "nome": "Malbec Pure Gold 100ml",
     "preco": "263.90",
-    "imagem": "imagens/Malbec Pure Gold 100ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Malbec+Pure+Gold"
+    "imagem": "imagens/Malbec Pure Gold 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Egeo Original 90ml",
+    "preco": "169.90",
+    "imagem": "imagens/Egeo Original 90ml.png"
   },
   {
     "categoria": "masculino",
     "nome": "Egeo Bomb Black 90ml",
     "preco": "170.90",
-    "imagem": "imagens/Egeo Bomb Black 90ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Egeo+Bomb+Black"
+    "imagem": "imagens/Egeo Bomb Black 90ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Zaad Tradicional 95ml",
+    "preco": "354.90",
+    "imagem": "imagens/Zaad Tradicional 95ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Clash 100ml",
+    "preco": "174.90",
+    "imagem": "imagens/Clash 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Botica 214 African Sunrise 90ml",
+    "preco": "249.90",
+    "imagem": "imagens/Botica 214 African Sunrise 90ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Botica 214 Fiji Paradise 90ml",
+    "preco": "249.90",
+    "imagem": "imagens/Botica 214 Fiji Paradise 90ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Arbo Atlântica 100ml",
+    "preco": "179.90",
+    "imagem": "imagens/Arbo Atlântica 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Intention For Man 100ml",
+    "preco": "164.90",
+    "imagem": "imagens/Intention For Man 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Connexion 100ml",
+    "preco": "179.90",
+    "imagem": "imagens/Connexion 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Club 6 Exclusive 95ml",
+    "preco": "159.90",
+    "imagem": "imagens/Club 6 Exclusive 95ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Coffee Man 100ml",
+    "preco": "229.90",
+    "imagem": "imagens/Coffee Man 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Uomini Black 100ml",
+    "preco": "219.90",
+    "imagem": "imagens/Uomini Black 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Man 100ml",
+    "preco": "199.90",
+    "imagem": "imagens/Man 100ml.png"
   },
   {
     "categoria": "feminino",
     "nome": "Liz Flora 100ml",
     "preco": "181.90",
-    "imagem": "imagens/Liz Flora 100ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Liz+Flora"
+    "imagem": "imagens/Liz Flora 100ml.png"
   },
   {
     "categoria": "feminino",
     "nome": "Accordes Harmonia 80ml",
     "preco": "252.90",
-    "imagem": "imagens/Accordes Harmonia 80ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Accordes+Harmonia"
+    "imagem": "imagens/Accordes Harmonia 80ml.png"
   },
   {
     "categoria": "hidratante",
     "nome": "Lily Creme Acetinado 250ml",
     "preco": "156.90",
-    "imagem": "imagens/Creme Acetinado Lily Tradicional 250ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Lily+Creme"
+    "imagem": "imagens/Creme Acetinado Lily Tradicional 250ml.png"
   },
   {
     "categoria": "hidratante",
     "nome": "Hidratante Nativa Spa Ameixa 400ml",
     "preco": "95.90",
-    "imagem": "imagens/Hidratante NativaSpa Ameixa 400ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Hidratante+Ameixa"
+    "imagem": "imagens/Hidratante NativaSpa Ameixa 400ml.png"
   },
   {
     "categoria": "hidratante",
     "nome": "Refil Hidratante Nativa Spa Ameixa 400ml",
     "preco": "95.90",
-    "imagem": "imagens/Hidratante NativaSpa Ameixa 400ml Refil.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Refil+Ameixa"
+    "imagem": "imagens/Hidratante NativaSpa Ameixa 400ml Refil.png"
   },
   {
     "categoria": "splash",
     "nome": "Cuide-se Bem Show de Banho 100ml",
     "preco": "109.90",
-    "imagem": "imagens/Cuidese Bem Show de Banho 100ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Body+Splash+Show+de+Banho"
+    "imagem": "imagens/Cuidese Bem Show de Banho 100ml.png"
   },
   {
     "categoria": "infantil",
     "nome": "Sophie Like 100ml",
     "preco": "116.90",
-    "imagem": "imagens/Shopei Like 100ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+Shopei+Like"
+    "imagem": "imagens/Shopei Like 100ml.png"
   },
   {
     "categoria": "cabelos",
     "nome": "Shampoo Nutri Óleos Poderosos 250ml",
     "preco": "52.90",
-    "imagem": "imagens/Shampoo Nutri Óleos Poderosos 250ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+Shampoo+Óleos+Poderosos"
+    "imagem": "imagens/Shampoo Nutri Óleos Poderosos 250ml.png"
   }
   ]
 }
