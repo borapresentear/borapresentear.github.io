@@ -1,86 +1,89 @@
-[
-  {
-    "categoria": "Perfumes Masculinos",
-    "nome": "Malbec Tradicional 100ml",
+{
+  "produtos": [
+    {
+    "categoria": "masculino",
+    "nome": "Malbec Trad. 100ml",
     "preco": "239.90",
     "imagem": "imagens/Malbec Tradicional 100ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Malbec"
+    "link": "https://wa.me/5594992805113?text=Quero+o+Malbec+Tradicional"
   },
   {
-    "categoria": "Perfumes Masculinos",
+    "categoria": "masculino",
     "nome": "Malbec Magnectic 100ml",
     "preco": "263.90",
     "imagem": "imagens/Malbec Magnectic 100ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Malbec"
+    "link": "https://wa.me/5594992805113?text=Quero+o+Malbec+Magnectic"
   },
   {
-    "categoria": "Perfumes Masculinos",
+    "categoria": "masculino",
     "nome": "Malbec Pure Gold 100ml",
     "preco": "263.90",
     "imagem": "imagens/Malbec Pure Gold 100ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Malbec"
+    "link": "https://wa.me/5594992805113?text=Quero+o+Malbec+Pure+Gold"
   },
   {
-    "categoria": "Perfumes Masculinos",
+    "categoria": "masculino",
     "nome": "Egeo Bomb Black 90ml",
     "preco": "170.90",
     "imagem": "imagens/Egeo Bomb Black 90ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Malbec"
+    "link": "https://wa.me/5594992805113?text=Quero+o+Egeo+Bomb+Black"
   },
   {
-    "categoria": "Perfumes Femininos",
+    "categoria": "feminino",
     "nome": "Liz Flora 100ml",
     "preco": "181.90",
-    "imagem": "imagens/Liz Flora Tradicional 100ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Floratta+Red"
+    "imagem": "imagens/Liz Flora 100ml.png",
+    "link": "https://wa.me/5594992805113?text=Quero+o+Liz+Flora"
   },
   {
-    "categoria": "Perfumes Femininos",
+    "categoria": "feminino",
     "nome": "Accordes Harmonia 80ml",
     "preco": "252.90",
     "imagem": "imagens/Accordes Harmonia 80ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Floratta+Red"
+    "link": "https://wa.me/5594992805113?text=Quero+o+Accordes+Harmonia"
   },
   {
-    "categoria": "Hidratantes",
+    "categoria": "hidratante",
     "nome": "Lily Creme Acetinado 250ml",
     "preco": "156.90",
     "imagem": "imagens/Creme Acetinado Lily Tradicional 250ml.png",
     "link": "https://wa.me/5594992805113?text=Quero+o+Lily+Creme"
   },
   {
-    "categoria": "Hidratantes",
+    "categoria": "hidratante",
     "nome": "Hidratante Nativa Spa Ameixa 400ml",
     "preco": "95.90",
     "imagem": "imagens/Hidratante NativaSpa Ameixa 400ml.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Lily+Creme"
+    "link": "https://wa.me/5594992805113?text=Quero+o+Hidratante+Ameixa"
   },
   {
-    "categoria": "Hidratantes",
+    "categoria": "hidratante",
     "nome": "Refil Hidratante Nativa Spa Ameixa 400ml",
     "preco": "95.90",
     "imagem": "imagens/Hidratante NativaSpa Ameixa 400ml Refil.png",
-    "link": "https://wa.me/5594992805113?text=Quero+o+Lily+Creme"
+    "link": "https://wa.me/5594992805113?text=Quero+o+Refil+Ameixa"
   },
   {
-    "categoria": "Body Splash",
+    "categoria": "splash",
     "nome": "Cuide-se Bem Show de Banho 100ml",
     "preco": "109.90",
     "imagem": "imagens/Cuidese Bem Show de Banho 100ml.png",
     "link": "https://wa.me/5594992805113?text=Quero+o+Body+Splash+Show+de+Banho"
   },
   {
-    "categoria": "Infantil",
+    "categoria": "infantil",
     "nome": "Sophie Like 100ml",
     "preco": "116.90",
     "imagem": "imagens/Shopei Like 100ml.png",
     "link": "https://wa.me/5594992805113?text=Quero+Shopei+Like"
   },
   {
-    "categoria": "Cabelos",
+    "categoria": "cabelos",
     "nome": "Shampoo Nutri Óleos Poderosos 250ml",
     "preco": "52.90",
     "imagem": "imagens/Shampoo Nutri Óleos Poderosos 250ml.png",
     "link": "https://wa.me/5594992805113?text=Quero+Shampoo+Óleos+Poderosos"
   }
-]
+  ]
+}
+
