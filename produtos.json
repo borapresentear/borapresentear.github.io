@@ -109,6 +109,30 @@
     "imagem": "imagens/Accordes Harmonia 80ml.png"
   },
   {
+    "categoria": "feminino",
+    "nome": "La Victorie 75ml",
+    "preco": "274.90",
+    "imagem": "imagens/La Victorie 75ml.png"
+  },
+  {
+    "categoria": "feminino",
+    "nome": "La Victorie Intense 75ml",
+    "preco": "274.90",
+    "imagem": "imagens/La Victorie Intense 75ml.png"
+  },
+  {
+    "categoria": "feminino",
+    "nome": "Botica 214 Sevilla Dorada 75ml",
+    "preco": "249.90",
+    "imagem": "imagens/Sevilla Dourada 75ml.png"
+  },
+  {
+    "categoria": "feminino",
+    "nome": "Elysée Blanc 50ml",
+    "preco": "335.90",
+    "imagem": "imagens/Elysee Blanc 50ml.png"
+  },
+  {
     "categoria": "hidratante",
     "nome": "Lily Creme Acetinado 250ml",
     "preco": "156.90",
@@ -133,10 +157,40 @@
     "imagem": "imagens/Cuidese Bem Show de Banho 100ml.png"
   },
   {
+    "categoria": "splash",
+    "nome": "Body Spray Accordes 100ml",
+    "preco": "49.90",
+    "imagem": "imagens/Body Spray Accordes 100ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Spray Floratta Red 100ml",
+    "preco": "49.90",
+    "imagem": "imagens/Body Spray Floratta Red 100ml.png"
+  },
+  {
     "categoria": "infantil",
     "nome": "Sophie Like 100ml",
     "preco": "116.90",
-    "imagem": "imagens/Shopei Like 100ml.png"
+    "imagem": "imagens/Sophie Like 100ml.png"
+  },
+  {
+    "categoria": "infantil",
+    "nome": "Sophie Hello 100ml",
+    "preco": "116.90",
+    "imagem": "imagens/Sophie Hello 100ml.png"
+  },
+  {
+    "categoria": "infantil",
+    "nome": "Sophie Candy 100ml",
+    "preco": "116.90",
+    "imagem": "imagens/Sophie Candy 100ml.png"
+  },
+  {
+    "categoria": "infantil",
+    "nome": "Sophie Spider Gwen 100ml",
+    "preco": "116.90",
+    "imagem": "imagens/Sophie Spider Gwen 100ml.png"
   },
   {
     "categoria": "cabelos",
