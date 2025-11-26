@@ -349,6 +349,48 @@
     "imagem": "imagens/Shampoo Nutri Óleos Poderosos 250ml.png"
   },
   {
+    "categoria": "cabelos",
+    "nome": "Shampoo Siàge Acelera Crescimento  250ml",
+    "preco": "52.90",
+    "imagem": "imagens/Shampoo Siàge Acelera Crescimento  250ml.png"
+  },
+  {
+    "categoria": "cabelos",
+    "nome": "Condicionador Siàge Acelera Crescimento  200ml",
+    "preco": "54.99",
+    "imagem": "imagens/Condicionador Siàge Acelera Crescimento  200ml.png"
+  },
+  {
+    "categoria": "cabelos",
+    "nome": "Shampoo Siàge Pro Cronology Curvas 250ml",
+    "preco": "52.90",
+    "imagem": "imagens/Shampoo Siàge Pro Cronology Curvas 250ml.png"
+  },
+  {
+    "categoria": "cabelos",
+    "nome": "Condicionador Siàge Pro Cronology Curvas 250ml",
+    "preco": "54.99",
+    "imagem": "imagens/Condicionador Siàge Pro Cronology Curvas 250ml.png"
+  },
+  {
+    "categoria": "cabelos",
+    "nome": "Creme para Pentear Siàge Pro Cronology Curvas 300ml",
+    "preco": "54.99",
+    "imagem": "imagens/Creme para Pentear Siàge Pro Cronology Curvas 300ml.png"
+  },    
+  {
+    "categoria": "cabelos",
+    "nome": "Shampoo Match Ciência das curvas 300ml",
+    "preco": "52.90",
+    "imagem": "imagens/Shampoo Match Ciência das curvas 300ml.png"
+  },
+  {
+    "categoria": "cabelos",
+    "nome": "Condicionador Match Ciência das curvas 300ml",
+    "preco": "54.90",
+    "imagem": "imagens/Condicionador Match Ciência das curvas 300ml.png"
+  },
+  {
     "categoria": "outros",
     "nome": "Antitranspirante Aerosol Instance Algodão e Jasmim 150ml/90g",
     "preco": "34.90",
@@ -396,6 +438,24 @@
     "preco": "109.90",
     "imagem": "imagens/Gel Hidratante Facial Neo Dermo Hidra Mineral Collection 30g.png"
   },   
+  {
+    "categoria": "outros",
+    "nome": "Creme perfumado para mãos Instance Karité 30g",
+    "preco": "21,99",
+    "imagem": "imagens/Creme perfumado para mãos Instance Karité 30g.png"
+  },     
+  {
+    "categoria": "outros",
+    "nome": "Creme perfumado para mãos Instance Baunilha 30g",
+    "preco": "21,99",
+    "imagem": "imagens/Creme perfumado para mãos Instance Baunilha 30g.png"
+  },     
+  {
+    "categoria": "outros",
+    "nome": "Antitranspirante em creme Instance Karité 80g",
+    "preco": "27.90",
+    "imagem": "imagens/Antitranspirante em creme Instance Karité 80g.png"
+  },     
   {
     "categoria": "kit",
     "nome": "Presente Floratta Red 2 Itens",
