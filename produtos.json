@@ -104,6 +104,12 @@
   },
   {
     "categoria": "feminino",
+    "nome": "Accordes 80ml",
+    "preco": "252.90",
+    "imagem": "imagens/Accordes Tradicional 80ml.png"
+  },
+  {
+    "categoria": "feminino",
     "nome": "Accordes Harmonia 80ml",
     "preco": "252.90",
     "imagem": "imagens/Accordes Harmonia 80ml.png"
@@ -133,29 +139,161 @@
     "imagem": "imagens/Elysee Blanc 50ml.png"
   },
   {
+    "categoria": "feminino",
+    "nome": "Eldora Noir 75ml",
+    "preco": "259.90",
+    "imagem": "imagens/Eldora Noir 75ml.png"
+  },
+  {
+    "categoria": "feminino",
+    "nome": "Floratta Rose Bouquet 75ml",
+    "preco": "174.90",
+    "imagem": "imagens/Floratta Rose Bouquet 75ml.png"
+  },
+  {
+    "categoria": "feminino",
+    "nome": "Floratta Cerejeira em Flor 75ml",
+    "preco": "174.90",
+    "imagem": "imagens/Floratta Cerejeira em Flor 75ml.png"
+  },
+  {
+    "categoria": "feminino",
+    "nome": "Velvet Divine 100ml",
+    "preco": "129.90",
+    "imagem": "imagens/Eudora Velvet Divine 100ml.png"
+  },  
+  {
+    "categoria": "feminino",
+    "nome": "Velvet Confident 100ml",
+    "preco": "129.90",
+    "imagem": "imagens/Eudora Velvet Confident 100ml.png"
+  },  
+  {
+    "categoria": "feminino",
+    "nome": "Coffee Woman Duo 100ml",
+    "preco": "229.90",
+    "imagem": "imagens/Coffee Woman Duo 100ml.png"
+  },  
+  {
+    "categoria": "feminino",
+    "nome": "Glamour Midnight 75ml",
+    "preco": "204.90",
+    "imagem": "imagens/Glamour Midnight 75ml.png"
+  },  
+  {
+    "categoria": "feminino",
+    "nome": "Magnific Audaz 75ml",
+    "preco": "224.90",
+    "imagem": "imagens/Eudora Magnific Audaz 75ml.png"
+  },  
+  {
     "categoria": "hidratante",
-    "nome": "Lily Creme Acetinado 250ml",
-    "preco": "156.90",
+    "nome": "Creme Acetinado Lily Tradicional 250ml",
+    "preco": "154.90",
     "imagem": "imagens/Creme Acetinado Lily Tradicional 250ml.png"
+  },  
+  {
+    "categoria": "hidratante",
+    "nome": "Creme Acetinado Lily Gardénia 250ml",
+    "preco": "154.90",
+    "imagem": "imagens/Creme Acetinado Lily Gardénia 250ml.png"
+  },  
+  {
+    "categoria": "hidratante",
+    "nome": "Refil Creme Acetinado Elysée Blanc 200ml",
+    "preco": "109.90",
+    "imagem": "imagens/Refil Creme Acetinado Elysée Blanc 200ml.png"
+  },  
+  {
+    "categoria": "hidratante",
+    "nome": "Loção Hidratante Corporal NativaSpa Ameixa 400ml",
+    "preco": "95.90",
+    "imagem": "imagens/Loção Hidratante Corporal NativaSpa Ameixa 400ml.png"
   },
   {
     "categoria": "hidratante",
-    "nome": "Hidratante Nativa Spa Ameixa 400ml",
-    "preco": "95.90",
-    "imagem": "imagens/Hidratante NativaSpa Ameixa 400ml.png"
-  },
-  {
-    "categoria": "hidratante",
-    "nome": "Refil Hidratante Nativa Spa Ameixa 400ml",
-    "preco": "95.90",
-    "imagem": "imagens/Hidratante NativaSpa Ameixa 400ml Refil.png"
+    "nome": "Refil Loção Hidratante Corporal NativaSpa Ameixa 400ml",
+    "preco": "74.90",
+    "imagem": "imagens/Refil Loção Hidratante Corporal NativaSpa Ameixa 400ml.png"
   },
   {
     "categoria": "splash",
-    "nome": "Cuide-se Bem Show de Banho 100ml",
-    "preco": "109.90",
-    "imagem": "imagens/Cuidese Bem Show de Banho 100ml.png"
+    "nome": "Body Splash Cuide-se Bem Show de Banho 200ml",
+    "preco": "99.90",
+    "imagem": "imagens/Body Splash Cuide-se Bem Show de Banho 200ml.png"
   },
+  {
+    "categoria": "splash",
+    "nome": "Body Splash Cuide-se Bem Beijinho 200ml",
+    "preco": "99.90",
+    "imagem": "imagens/Body Splash Cuide-se Bem Beijinho 200ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Splash Cuide-se Bem Nuvem 200ml",
+    "preco": "99.90",
+    "imagem": "imagens/Body Splash Cuide-se Bem Nuvem 200ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Splash Cuide-se Bem Nuvem de Alegria 200ml",
+    "preco": "99.90",
+    "imagem": "imagens/Body Splash Cuide-se Bem Nuvem de Alegria 200ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Splash Cuide-se Bem Pessegura 200ml",
+    "preco": "99.90",
+    "imagem": "imagens/Body Splash Cuide-se Bem Pessegura 200ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Splash Cuide-se Bem Deleite 200ml",
+    "preco": "99.90",
+    "imagem": "imagens/Body Splash Cuide-se Bem Deleite 200ml.png"
+  },  
+  {
+    "categoria": "splash",
+    "nome": "Body Splash NativaSpa Ameixa 200ml",
+    "preco": "109.90",
+    "imagem": "imagens/Body Splash NativaSpa Ameixa 200ml.png"
+  },  
+  {
+    "categoria": "splash",
+    "nome": "Body Splash NativaSpa Ameixa Dourada 200ml",
+    "preco": "109.90",
+    "imagem": "imagens/Body Splash NativaSpa Ameixa Dourada 200ml.png"
+  },  
+  {
+    "categoria": "splash",
+    "nome": "Body Splash NativaSpa Ameixa Negra 200ml",
+    "preco": "109.90",
+    "imagem": "imagens/Body Splash NativaSpa Ameixa Negra 200ml.png"
+  },  
+  {
+    "categoria": "splash",
+    "nome": "Body Splash NativaSpa Cereja Rouge 200ml",
+    "preco": "109.90",
+    "imagem": "imagens/Body Splash NativaSpa Cereja Rouge 200ml.png"
+  },  
+  {
+    "categoria": "splash",
+    "nome": "Body Splash NativaSpa Orquídea Noire 200ml",
+    "preco": "109.90",
+    "imagem": "imagens/Body Splash NativaSpa Orquídea Noire 200ml.png"
+  },  
+  {
+    "categoria": "splash",
+    "nome": "Body Splash NativaSpa Uva Merlot 200ml",
+    "preco": "109.90",
+    "imagem": "imagens/Body Splash NativaSpa Uva Merlot 200ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Splash NativaSpa Jasmim Sambac 200ml",
+    "preco": "109.90",
+    "imagem": "imagens/Body Splash NativaSpa Jasmim Sambac 200ml.png"
+  },    
   {
     "categoria": "splash",
     "nome": "Body Spray Accordes 100ml",
@@ -167,6 +305,18 @@
     "nome": "Body Spray Floratta Red 100ml",
     "preco": "49.90",
     "imagem": "imagens/Body Spray Floratta Red 100ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Spray Eudora Diva Esplêndida 100ml",
+    "preco": "47.90",
+    "imagem": "imagens/Body Spray Eudora Diva Esplêndida 100ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Spray Eudora Magnific 100ml",
+    "preco": "47.90",
+    "imagem": "imagens/Body Spray Eudora Magnific 100ml.png"
   },
   {
     "categoria": "infantil",
@@ -197,7 +347,85 @@
     "nome": "Shampoo Nutri Óleos Poderosos 250ml",
     "preco": "52.90",
     "imagem": "imagens/Shampoo Nutri Óleos Poderosos 250ml.png"
-  }
+  },
+  {
+    "categoria": "outros",
+    "nome": "Antitranspirante Aerosol Instance Algodão e Jasmim 150ml/90g",
+    "preco": "34.90",
+    "imagem": "imagens/Antitranspirante Aerosol Instance Algodão e Jasmim 150ml.png"
+  },
+  {
+    "categoria": "outros",
+    "nome": "Antitranspirante Aerosol Instance Frutas Vermelhas 150ml/90g",
+    "preco": "34.90",
+    "imagem": "imagens/Antitranspirante Aerosol Instance Frutas Vermelhas 150ml.png"
+  },
+  {
+    "categoria": "outros",
+    "nome": "Antitranspirante Aerosol Instance Karité 150ml/90g",
+    "preco": "34.90",
+    "imagem": "imagens/Antitranspirante Aerosol Instance Karité 150ml.png"
+  },
+  {
+    "categoria": "outros",
+    "nome": "Antitranspirante Aerosol Lily 125ml/75g",
+    "preco": "41.90",
+    "imagem": "imagens/Antitranspirante Aerosol Lily 125ml.png"
+  },  
+  {
+    "categoria": "outros",
+    "nome": "Antitranspirante Aerosol Botica 214 Fiji Paradise 125ml/75g",
+    "preco": "41.90",
+    "imagem": "imagens/Antitranspirante Aerosol Botica 214 Fiji Paradise 125ml.png"
+  },  
+  {
+    "categoria": "outros",
+    "nome": "Óleo Bifásico Corporal NativaSpa Uva Merlot 200ml",
+    "preco": "104.90",
+    "imagem": "imagens/Óleo Bifásico Corporal NativaSpa Uva Merlot 200ml.png"
+  },  
+  {
+    "categoria": "outros",
+    "nome": "Protetor Solar Facial Fluido FPS 80 Botik Ácido Hialurônico 40ml",
+    "preco": "109.90",
+    "imagem": "imagens/Protetor Solar Facial Fluido FPS 80 Botik Ácido Hialurônico 40ml.png"
+  },   
+  {
+    "categoria": "outros",
+    "nome": "Gel Hidratante Facial Neo Dermo Hidra Mineral Collection 30g",
+    "preco": "109.90",
+    "imagem": "imagens/Gel Hidratante Facial Neo Dermo Hidra Mineral Collection 30g.png"
+  },   
+  {
+    "categoria": "kit",
+    "nome": "Presente Floratta Red 2 Itens",
+    "preco": "84.80",
+    "imagem": "imagens/Kit Body Spray Floratta Red.png"
+  },
+  {
+    "categoria": "kit",
+    "nome": "Presente Celebre Agora Feminino",
+    "preco": "144.80",
+    "imagem": "imagens/Kit Celebre Feminino.png"
+  },
+  {
+    "categoria": "kit",
+    "nome": "Presente Floratta Gold",
+    "preco": "224.80",
+    "imagem": "imagens/Kit Floratta Gold.png"
+  },
+  {
+    "categoria": "kit",
+    "nome": "Presente Floratta Red 3 Itens",
+    "preco": "247.70",
+    "imagem": "imagens/Kit Floratta Red.png"
+  },
+  {
+    "categoria": "kit",
+    "nome": "Eudora Pulse",
+    "preco": "124,90",
+    "imagem": "imagens/Kitj Eudora Pulse.png"
+  }  
   ]
 }
 
