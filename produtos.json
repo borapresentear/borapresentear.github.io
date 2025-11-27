@@ -441,13 +441,13 @@
   {
     "categoria": "outros",
     "nome": "Creme perfumado para mãos Instance Karité 30g",
-    "preco": "21,99",
+    "preco": "21.99",
     "imagem": "imagens/Creme perfumado para mãos Instance Karité 30g.png"
   },     
   {
     "categoria": "outros",
     "nome": "Creme perfumado para mãos Instance Baunilha 30g",
-    "preco": "21,99",
+    "preco": "21.99",
     "imagem": "imagens/Creme perfumado para mãos Instance Baunilha 30g.png"
   },     
   {
@@ -483,7 +483,7 @@
   {
     "categoria": "kit",
     "nome": "Eudora Pulse",
-    "preco": "124,90",
+    "preco": "124.90",
     "imagem": "imagens/Kitj Eudora Pulse.png"
   }  
   ]
