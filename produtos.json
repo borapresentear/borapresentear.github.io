@@ -217,6 +217,30 @@
     "imagem": "imagens/Refil Loção Hidratante Corporal NativaSpa Ameixa 400ml.png"
   },
   {
+    "categoria": "hidratante",
+    "nome": "Creme Hidratante Corporal Eudora Bombom de Avelã 400ml",
+    "preco": "54.90",
+    "imagem": "imagens/Creme Hidratante Corporal Eudora Bombom de Avelã 400ml.png"
+  },
+  {
+    "categoria": "hidratante",
+    "nome": "Hidratante para mãos Eudora La Piel Tâmaras Egípcias FPS15 50g",
+    "preco": "36.90",
+    "imagem": "imagens/Hidratante para mãos Eudora La Piel Tâmaras Egípcias FPS15 50g.png"
+  },
+  {
+    "categoria": "hidratante",
+    "nome": "Loção Hidratante Corporal Eudora Lyra 150ml",
+    "preco": "54.99",
+    "imagem": "imagens/Loção Hidratante Corporal Eudora Lyra 150ml.png"
+  },
+  {
+    "categoria": "hidratante",
+    "nome": "Loção Hidratante Corporal QDB Prazer Berê 200ml",
+    "preco": "47.90",
+    "imagem": "imagens/Loção Hidratante Corporal QDB Prazer Berê 200ml.png"
+  },
+  {
     "categoria": "splash",
     "nome": "Body Splash Cuide-se Bem Show de Banho 200ml",
     "preco": "99.90",
@@ -390,6 +414,18 @@
     "preco": "54.90",
     "imagem": "imagens/Condicionador Match Ciência das curvas 300ml.png"
   },
+  {
+    "categoria": "cabelos",
+    "nome": "Máscara Capilar Match Ciência das Curvas Crespo 350g",
+    "preco": "76.90",
+    "imagem": "imagens/Máscara Capilar Match Ciência das Curvas Crespo 350g.png"
+  },
+  {
+    "categoria": "cabelos",
+    "nome": "Sabonete Liquido Biocolágeno Tâmaras Egípcias 200ml",
+    "preco": "76.90",
+    "imagem": "imagens/Sabonete Liquido Biocolágeno Tâmaras Egípcias 200ml.png"
+  },  
   {
     "categoria": "outros",
     "nome": "Antitranspirante Aerosol Instance Algodão e Jasmim 150ml/90g",
