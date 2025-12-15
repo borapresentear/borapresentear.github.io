@@ -20,6 +20,12 @@
   },
   {
     "categoria": "masculino",
+    "nome": "Malbec Bleu 100ml",
+    "preco": "263.90",
+    "imagem": "imagens/Malbec Bleu 100ml.png"
+  },  
+  {
+    "categoria": "masculino",
     "nome": "Egeo Original 90ml",
     "preco": "169.90",
     "imagem": "imagens/Egeo Original 90ml.png"
@@ -86,6 +92,12 @@
   },
   {
     "categoria": "masculino",
+    "nome": "Uomini Tradicional 100ml",
+    "preco": "219.90",
+    "imagem": "imagens/Uomini Tradicional 100ml.png"
+  },
+  {
+    "categoria": "masculino",
     "nome": "Uomini Black 100ml",
     "preco": "219.90",
     "imagem": "imagens/Uomini Black 100ml.png"
@@ -95,6 +107,24 @@
     "nome": "Man 100ml",
     "preco": "199.90",
     "imagem": "imagens/Man 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Portinari Tradicional 100ml",
+    "preco": "209.90",
+    "imagem": "imagens/Portinari Tradicional 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Quasar Tradicional 100ml",
+    "preco": "186.90",
+    "imagem": "imagens/Quasar Tradicional 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Quasar Deep Blue 100ml",
+    "preco": "186.90",
+    "imagem": "imagens/Quasar Deep Blue 100ml.png"
   },
   {
     "categoria": "feminino",
@@ -365,6 +395,12 @@
     "nome": "Sophie Spider Gwen 100ml",
     "preco": "116.90",
     "imagem": "imagens/Sophie Spider Gwen 100ml.png"
+  },
+  {
+    "categoria": "infantil",
+    "nome": "Next Infantil 75ml",
+    "preco": "114.90",
+    "imagem": "imagens/Next Infantil 75ml.png"
   },
   {
     "categoria": "cabelos",
