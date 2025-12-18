@@ -13,7 +13,7 @@
     "imagem": "imagens/Malbec Magnectic 100ml.png"
   },
   {
-    "categoria": "masculino",
+    "categoria": "estoque",
     "nome": "Malbec Pure Gold 100ml",
     "preco": "263.90",
     "imagem": "imagens/Malbec Pure Gold 100ml.png"
@@ -541,13 +541,13 @@
     "imagem": "imagens/Kit Celebre Feminino.png"
   },
   {
-    "categoria": "kit",
+    "categoria": "estoque",
     "nome": "Presente Floratta Gold",
     "preco": "224.80",
     "imagem": "imagens/Kit Floratta Gold.png"
   },
   {
-    "categoria": "kit",
+    "categoria": "estoque",
     "nome": "Presente Floratta Red 3 Itens",
     "preco": "247.70",
     "imagem": "imagens/Kit Floratta Red.png"
